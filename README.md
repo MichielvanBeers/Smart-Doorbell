@@ -18,7 +18,7 @@ The following components have been used
 
 # Connecting the hardware <a name="hardware"></a>
 1. Connect the wires as follows:
-![alt text](https://imgur.com/3yRyb8C "Wiring doorbell")
+![alt text](https://i.imgur.com/3yRyb8C.png "Wiring doorbell")
 
 # Setting up the software <a name="software"></a>
 1. Download Tasmotizer: https://github.com/tasmota/tasmotizer
