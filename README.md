@@ -14,7 +14,7 @@ The following components have been used
 - 230v AC to 5v DC converter: https://aliexpress.com/item/4000606845997.html
 - Dupont/Jumper cables: https://aliexpress.com/item/4000203371860.html
 - Existing doorbell 
-- (Optional) 3D printed case: TBA
+- (Optional) 3D printed case: https://www.thingiverse.com/thing:5167974
 
 # Connecting the hardware <a name="hardware"></a>
 1. Connect the wires as follows:
