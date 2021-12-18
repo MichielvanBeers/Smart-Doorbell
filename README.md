@@ -18,22 +18,7 @@ The following components have been used
 
 # Connecting the hardware <a name="hardware"></a>
 1. Connect the wires as follows:
-  - 5V AC/DC Converter >> Vin NodeMCU
-  - Ground AC/DV Converter >> GND NodeMCU
-  - Doorbell Wire 1 >> GND NodeMCU
-  - Doorbell Wire 2 >> D5 NodeMCU
-  - Relay In1 >> D1 NodeMCU
-  - Relay Vcc >> 3V3 NodeMCU
-  - Relay Gnd >> GND NodeMCU
-2. Wire the doorbell with the relay, as follows:
-```  
-1. Empty
-2. Power Cable from doorbell power supply
-3. Power Cable to doorbell ringer
-```
-![alt text](https://i.imgur.com/IJ7CVIx.png "Wiring doorbell to relay")
-
-3. Leave the ground cable of the doorbell directly connected with the doorbell rinnger
+![alt text](https://imgur.com/3yRyb8C "Wiring doorbell")
 
 # Setting up the software <a name="software"></a>
 1. Download Tasmotizer: https://github.com/tasmota/tasmotizer
